@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-problem-solving
 venue: "ABES Engineering College"
-date: 2019
+date: 2019-01-01
 location: "Ghaziabad, India"
 excerpt: ""
 ---
