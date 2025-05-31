@@ -4,6 +4,7 @@ date:   2020-07-24 12:00:00
 author: Priyansh Singh
 keywords: ""
 permalink: /posts/2020/07/barber/
+excerpt: "I'm currently working on edits to a journal article, and I'm stuck with some indecision. I see my monthly haircut is due, it'll be a refreshing change of pace, and maybe..."
 tags:
   - creative
 ---

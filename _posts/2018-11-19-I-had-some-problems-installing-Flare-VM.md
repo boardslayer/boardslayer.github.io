@@ -2,7 +2,7 @@
 title:  "I had some problems installing Flare-VM"
 date:   2018-11-19
 author: Priyansh Singh
-description: "The university uses a VPS which creates an issue following the Flare-VM installation ..."
+excerpt: "The university uses a VPS which creates an issue following the Flare-VM installation ..."
 keywords: ""
 permalink: /posts/2018/11/flarevm/
 tags:

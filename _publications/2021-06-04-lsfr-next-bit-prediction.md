@@ -3,7 +3,7 @@ title: "LFSR Next Bit Prediction through Deep Learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-lsfr
-excerpt: 'Pseudorandom bit sequences are generated using deterministic algorithms to simulate truly random sequences. Many cryptographic algorithms use pseudorandom sequences, and the randomness of these sequences greatly impacts the robustness of these algorithms. Important crypto primitive LSFR ...'
+excerpt: 'Pseudorandom bit sequences are generated using deterministic algorithms to simulate truly random sequences. Many cryptographic algorithms use pseudorandom sequences, and the randomness of these sequences greatly impacts the robustness of these algorithms. Important crypto primitive LSFR...'
 date: 2021-06-04
 venue: 'Journal of Informatics  Electrical and Electronics Engineering'
 paperurl: 'http://priyanshs.github.io/files/publications/2021lsfr.pdf'

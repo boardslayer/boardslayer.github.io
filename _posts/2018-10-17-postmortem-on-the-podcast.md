@@ -4,6 +4,7 @@ date:   2018-10-17
 author: Priyansh Singh
 keywords: ""
 permalink: /posts/2018/10/podcast/
+excerpt: "I've always had a hard time relating with people around and the gap increased as time went on. Podcasts and talk radio..."
 tags:
   - podcasts
   - creative

@@ -3,6 +3,7 @@ title:  "Lying and Spotting Lies"
 date:   2015-1-13
 author: Priyansh Singh
 keywords: ""
+excerpt: 'Lying comes as second nature to all of us. All of us are liars. And we often tell lies to slip out of a difficult situation or get into one. Some of us are compulsive liars whatever we say is a lie, and we need to check whether or not we...'
 permalink: /posts/2015/01/lying/
 tags:
   - psychology

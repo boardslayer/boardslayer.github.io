@@ -1,10 +1,10 @@
 ---
 title:  "The Death Cycle"
 author: Priyansh Singh
-description: "How many times do you die in a lifetime? What happens to those who die?"
+excerpt: "How many times do you die in a lifetime? What happens to those who die?"
 date:   2019-01-15 04:50:00
 author: Priyansh Singh
-keywords: ""
+keywords: "When I was younger, I had this feeling of waking up as someone new, a new construct if you will, during most of the university it was..."
 permalink: /posts/2019/01/cycle/
 tags:
   - opinion
