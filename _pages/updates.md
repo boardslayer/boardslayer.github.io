@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /updates/
 title: All Updates 
 author_profile: true
 redirect_from: 
@@ -10,7 +10,11 @@ redirect_from:
 
 ### _May, 2024_
 
-- I completed my comprehensive examination for the PhD program at the Indian Institute of Technology, Delhi. _yay!_
+- I completed my comprehensive examination for the PhD program at the Indian Institute of Technology, Delhi. 
+
+### _March, 2024_
+
+- I visited Switzerland and Sweden. I attended my first International Telecommunication Union Study Group meetings in Geneva! 
 
 ### _January, 2024_
 
