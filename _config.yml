@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=xN5oO6IAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3901-7825"
+  orcid            : # URL "https://orcid.org/0000-0002-3901-7825"
   semantic         : # URL
   pubmed           : # ""
   researchgate     : # URL
@@ -64,7 +64,6 @@ author:
   mastodon         : "https://infosec.exchange/@boardslayer"
   medium           : # URL
   pinterest        : # Username
-  signal           : "priyansh"
   # thestorygraph       : "https://app.thestorygraph.com/profile/boardslayer"
   soundcloud       : # Username
   steam            : # Username
