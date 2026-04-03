@@ -16,6 +16,10 @@ While I have not enabled comments on this website for privacy reasons, I highly 
 
 ## Highlights
 
+### _January, 2026_
+
+- Awarded Outstanding Teaching Assistant for Semester I, 2025-26 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
+
 ### _May, 2024_
 
 - I completed my comprehensive examination for the PhD program at the Indian Institute of Technology, Delhi. 
