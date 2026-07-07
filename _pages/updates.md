@@ -2,11 +2,15 @@
 permalink: /updates/
 title: All Updates 
 author_profile: true
-redirect_from: 
-  - /updates/
-  - /updates.html
-
 ---
+
+### _July, 2026_
+
+- Awarded Outstanding Teaching Assistant for Semester II, 2025-26 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
+
+### _January, 2026_
+
+- Awarded Outstanding Teaching Assistant for Semester I, 2025-26 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
 
 ### _May, 2024_
 

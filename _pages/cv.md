@@ -29,8 +29,11 @@ redirect_from:
 ## Work Experience
 
 * August 2022 - Present: Teaching Assistant, [Indian Institute of Technology, Delhi (IIT-D)](https://iitd.ac.in)
-  * I've TA'd for Introduction to Computer Science (COL-100), Data Structures and Algorithms (COL106), Digital Logic & System Design (COL215), and Introduction to Distributed and Parallel Programming (COL380).
-  * I was awarded Outstanding Teaching Assistant for Semester I, 2023-24 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
+  * I've TA'd for Introduction to Computer Science (COL-100/COL1000), Data Structures & Algorithms (COL106), Digital Logic & System Design (COL215), Introduction to Distributed & Parallel Programming (COL380), and Network & System Security (SIL765).
+  * I was awarded Outstanding Teaching Assistant from the CSE Department, Indian Institute of Technology (IITD), Delhi.
+    * Semester I, 2023-24, Introduction to Computer Science (COL-100)
+    * Semester I, 2025-26, Introduction to Computer Science (COL1000)
+    * Semester II, 2025-26, Network & System Security (SIL765)
   * I've also TA'd for the Introduction to Computer Science (ACOL-100) at the [IIT Delhi, Abu Dhabi](https://abudhabi.iitd.ac.in) Campus.
 
 * Oct 2021 - July 2022: Junior Research Engineer, [Indian Institute of Information Technology, Allahabad, India](https://iiita.ac.in/)
