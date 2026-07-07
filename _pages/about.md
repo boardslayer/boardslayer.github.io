@@ -16,10 +16,10 @@ While I have not enabled comments on this website for privacy reasons, I highly 
 
 ## Highlights
 
-### July, 2026_
+### _July, 2026_
 
 - Awarded Outstanding Teaching Assistant for Semester II, 2025-26 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
-- 
+
 ### _January, 2026_
 
 - Awarded Outstanding Teaching Assistant for Semester I, 2025-26 from the CSE Department, Indian Institute of Technology (IITD), Delhi.
